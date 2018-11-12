@@ -1,0 +1,8 @@
+{
+	"create-jar": {
+		"auto-deploy-portlet": true,
+		"web-context-path": "/react-amcharts",
+		"output-dir": "dist"
+	},
+	"dump-report": true
+}
